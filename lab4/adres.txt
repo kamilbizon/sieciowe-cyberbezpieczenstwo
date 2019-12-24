@@ -1,0 +1,3 @@
+0x0000555555555040 adres printf
+0x00005555555551b0 adres powrotu
+0x7fffffffdffb adres buforu
